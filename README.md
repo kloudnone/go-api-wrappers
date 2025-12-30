@@ -157,7 +157,7 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 
 - [Web-API documentation](https://developers.strava.com/docs/reference/)
 - Wrapper
-    - [go.strava](https://github.com/strava/go.strava) ![GitHub Repo stars](https://img.shields.io/github/strava/go.strava) ![GitHub last commit](https://img.shields.io/github/last-commit/strava/go.strava)
+    - [go.strava](https://github.com/strava/go.strava) ![GitHub Repo stars](https://img.shields.io/github/stars/strava/go.strava) ![GitHub last commit](https://img.shields.io/github/last-commit/strava/go.strava)
 
 ### [Telegram](https://telegram.org/) - Messager
 
