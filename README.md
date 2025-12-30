@@ -163,6 +163,7 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 
 - [API documentation](https://core.telegram.org/)
 - Wrapper
+    - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) ![GitHub Repo stars](https://img.shields.io/github/stars/go-telegram-bot-api/telegram-bot-api) ![GitHub last commit](https://img.shields.io/github/last-commit/go-telegram-bot-api/telegram-bot-api)
     - [gotgbot](https://github.com/PaulSonOfLars/gotgbot) ![GitHub Repo stars](https://img.shields.io/github/stars/PaulSonOfLars/gotgbot) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulSonOfLars/gotgbot)
     - [go-Tgbot](https://github.com/olebedev/go-tgbot) ![GitHub Repo stars](https://img.shields.io/github/stars/olebedev/go-tgbot) ![GitHub last commit](https://img.shields.io/github/last-commit/olebedev/go-tgbot)
 
